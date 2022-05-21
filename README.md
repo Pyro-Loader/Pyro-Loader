@@ -14,6 +14,4 @@ C#/memory hacking/macros/discord bots
 - Discord:   [Selling Server](https://discord.gg/7M59xEN2ah)
 
 
-PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
-
 -----
