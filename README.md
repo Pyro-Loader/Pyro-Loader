@@ -1,10 +1,10 @@
 <p align="center">
-  <img height="80" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
+  <img height="80" src="https://media.discordapp.net/attachments/964590799130066966/977711994847236186/logo_large.png?width=1260&height=512">
 </p>
 
 ## Pyro.Loader
 
-> /'mak.si.mus blak/
+> /Pyro/
 
 C#/memory hacking/macros/discord bots
 
